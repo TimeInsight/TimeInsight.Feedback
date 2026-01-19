@@ -1,6 +1,6 @@
 ---
-name: Feature request - Özellik isteği
-about: Suggest an idea for this project
+name: Feature Request - Özellik İsteği
+about: Bu proje için bir fikir önerin - Suggest an idea for this project
 title: "[FEATURE]"
 labels: enhancement
 assignees: ''

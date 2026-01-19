@@ -1,6 +1,7 @@
 ---
-name: Bug report - Sorun bildir
-about: Report a bug to help us improve TimeInsight.
+name: Bug Report - Sorun Bildir
+about: TimeInsight'ı geliştirmemize yardımcı olmak için bir hata bildirin - Report
+  a bug to help us improve TimeInsight.
 title: "[BUG]"
 labels: bug
 assignees: ''

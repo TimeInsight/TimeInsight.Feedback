@@ -1,6 +1,6 @@
 ---
-name: Performance / Speed issue
-about: TimeInsight’te yavaşlık, takılma veya performans sorunlarını bildirin. / Report
+name: Performance Issue
+about: TimeInsight’te yavaşlık, takılma veya performans sorunlarını bildirin - Report
   slowness, freezing, or performance issues in TimeInsight.
 title: "[PERF]"
 labels: performance
