@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: TimeInsight Security
+    url: mailto:security@timeinsight.ai
+    about: Please report security vulnerabilities privately.
