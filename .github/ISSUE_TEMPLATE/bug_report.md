@@ -1,38 +1,33 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+about: Report a bug to help us improve TimeInsight.
+title: "[BUG]"
+labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Bug Summary
+Kısa bir cümleyle sorun nedir?
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## Steps to Reproduce
+1.
+2.
+3.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## Expected Behavior
+Ne olmasını bekliyordunuz?
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Actual Behavior
+Ne oldu? (Hata mesajı varsa ekleyin)
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## Environment
+- Platform: Web / iOS / Android
+- Browser: (Chrome / Safari / Firefox / Edge) + versiyon
+- OS: (Windows / macOS / iOS / Android) + versiyon
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+## Screenshots / Logs (Optional)
+Ekran görüntüsü / video / console log ekleyebilirsiniz.
 
-**Additional context**
-Add any other context about the problem here.
+## Additional Notes (Optional)
+Eklemek istediğiniz başka detaylar var mı?
