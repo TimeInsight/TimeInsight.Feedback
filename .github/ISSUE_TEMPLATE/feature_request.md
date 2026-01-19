@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: Feature request - Özellik isteği
 about: Suggest an idea for this project
 title: "[FEATURE]"
 labels: enhancement
@@ -7,19 +7,19 @@ assignees: ''
 
 ---
 
-## Feature Summary
+## Feature Summary - Özellik Özeti
 Kısa bir cümleyle istediğiniz özelliği nedir?
 
-## Problem / Use Case
+## Problem / Use Case - Problem / Kullanım Senaryosu
 Bu özellik hangi problemi çözüyor? (Kimler için, hangi senaryoda?)
 
-## Proposed Solution
+## Proposed Solution - Önerilen Çözüm
 Nasıl çalışmasını bekliyorsunuz? (kısaca anlatın)
 
-## Alternatives (Optional)
+## Alternatives - Alternatifler (Opsiyonel)
 Düşündüğünüz başka çözümler / geçici yöntemler var mı?
 
-## Priority (Optional)
+## Priority - Öncelik (Opsiyonel)
 - Nice-to-have / Should-have / Must-have
 
 ## Additional Context (Optional)
